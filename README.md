@@ -2,7 +2,7 @@
 ---
 I ❤️ to make something helpful to someone.
 
-This is the place where I make something.
+This is the place where I making something.
 
 - 🌱  I’m currently learning Flutter for fun 😉
 - 📄  My portfolio is here https://davemoon.oopy.io/portfolio. I'm proud of that 😆
